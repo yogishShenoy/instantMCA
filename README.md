@@ -1,0 +1,2 @@
+# instantMCA
+Student management system 
